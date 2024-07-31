@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextoBotao" parent="TextAppearance.Material3.LabelLarge">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+
+    <style name="CorBotao" parent="Widget.Material3.Button.TonalButton">
+        <item name="backgroundTint">@color/black</item>
+    </style>
+</resources>
